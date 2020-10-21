@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Tools:
+<p>
+   <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+   <img src="https://gpvc.arturio.dev/endrose" />
+</p>
+   
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=endrose&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrose&layout=compact" height=180 />
