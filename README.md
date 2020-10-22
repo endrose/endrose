@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 ### Let's connect!
 <p>
     <a href="https://www.linkedin.com/in/endros-endros-44633811a/" target="blank"><img src="https://img.shields.io/badge/endros-20302f?style=flat&logo=linkedin" /></a>
+    <a href="https://endrose.github.io/" target="blank"><img src="https://img.shields.io/badge/endrose-20302f?style=flat&logo=githubio" /></a>
     <a href="https://dribbble.com/endros" target="blank"><img src="https://img.shields.io/badge/endros-20302f?style=flat&logo=dribbble" /></a>
     <a href="https://www.youtube.com/channel/UCVK33c144Ij_nxFZrxjt_Hg" target="blank"><img src="https://img.shields.io/badge/Dokumentasi Channel-20302f?style=flat&logo=youtube" /></a>
   
