@@ -33,6 +33,5 @@ Here are some ideas to get you started:
     <a href="https://endrose.github.io/" target="blank"><img src="https://img.shields.io/badge/endrose-20302f?style=flat&logo=githubio" /></a>
     <a href="https://dribbble.com/endros" target="blank"><img src="https://img.shields.io/badge/endros-20302f?style=flat&logo=dribbble" /></a>
     <a href="https://www.youtube.com/channel/UCVK33c144Ij_nxFZrxjt_Hg" target="blank"><img src="https://img.shields.io/badge/Dokumentasi Channel-20302f?style=flat&logo=youtube" /></a>
- 
-  
+    <a href="https://dev.to/endrose"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="endrose's DEV Profile" height="30" width="30"></a>
  </p>
