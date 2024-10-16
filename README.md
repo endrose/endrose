@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
  ### Badges:
-<p>
+<p style="text-align: right;">
    <a href="https://stardev.io/developers/endrose"><img alt="Check out endrose&apos;s profile on stardev.io" src="https://stardev.io/developers/endrose/badge/languages/global.svg" /></a>
 </p>
 
