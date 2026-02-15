@@ -1,37 +1,49 @@
-### Hi there 👋
+## Hi there, I'm Endros 👋
 
-<!--
-**endrose/endrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer who focuses on building clean, scalable, and useful applications.  
+Mostly working with **Flutter**, **Dart**, **Android**, and **Web technologies**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Tools:
+## 🛠 Tools & Technologies
 <p>
-   <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />   
+  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
 </p>
 
+---
+
+## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=endrose&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrose&layout=compact" height=180 />
+  <img src="https://github-readme-stats.vercel.app/api?username=endrose&show_icons=true&hide_border=true&title_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrose&layout=compact" height="180" />
 </p>
 
-### Let's connect!
+---
+
+## 🌐 Let's Connect
 <p>
-    <a href="https://www.linkedin.com/in/endros-endros-44633811a/" target="blank"><img src="https://img.shields.io/badge/endros-20302f?style=flat&logo=linkedin" /></a>
-    <a href="http://profile.endrose.my.id/" target="blank"><img src="https://img.shields.io/badge/endrose-20302f?style=flat&logo=githubio" /></a>
-    <a href="https://endros.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-20302f?style=flat&logo=netlify" /></a>
-    <a href="https://dribbble.com/endros" target="blank"><img src="https://img.shields.io/badge/endros-20302f?style=flat&logo=dribbble" /></a>
-    <a href="https://www.youtube.com/channel/UCVK33c144Ij_nxFZrxjt_Hg" target="blank"><img src="https://img.shields.io/badge/Endrose%20Channel-20302f?style=flat&logo=youtube" /></a>
-    <a href="https://dev.to/endrose"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="endrose's DEV Profile" height="30" width="30"></a>
-    <a href="https://www.instagram.com/endrosenew/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/endros-endros-44633811a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Endros-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://endros.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  </a>
+  <a href="http://profile.endrose.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-endrose-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://dev.to/endrose" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-endrose-0A0A0A?style=flat&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/endros" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-endros-EA4C89?style=flat&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCVK33c144Ij_nxFZrxjt_Hg" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Endrose%20Channel-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/endrosenew/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-endrosenew-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
 </p>
