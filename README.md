@@ -10,7 +10,11 @@ Mostly working with **Flutter**, **Dart**, **Android**, and **Web technologies**
   <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Framework-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+   <img src="https://img.shields.io/badge/DartFrog-02569B?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-PHP7F52FF?style=flat&logo=laravel&logoColor=white" />
+  
+  
 </p>
 
 ---
