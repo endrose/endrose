@@ -2,10 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=endrose&label=Profile%20Views&color=0e75b6&style=flat" />
 
-I am a software developer focused on building clean, scalable, and production-ready applications.  
-Specialized in **Flutter**, **Dart**, **Android**, and backend development using **Dart Frog**.
-
----
+I am a software developer who focuses on building clean, scalable, and useful applications.
+Mostly working with Flutter, Dart, Android, and Web technologies.
 
 ## 🚀 Tech Stack
 
